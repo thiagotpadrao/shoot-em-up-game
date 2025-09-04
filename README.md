@@ -1,4 +1,4 @@
-# ShootEmUpGame
+# Shoot 'em up game
 
 ### What the Project Does
 This is a classic shoot 'em up game made in Java, where the player controls a ship or character that must shoot at enemies while avoiding obstacles and projectiles from a vertical perspective, focusing on fast-paced and intense action. The player faces a variety of enemies that attack in different ways. It is possible to collect power-ups that enhance the player's abilities. The player initially has 3 lives, and each time they are hit by an enemy or its projectile, they lose one and enter a state of invincibility for a short time. After losing all three lives, the player's ship explodes, and the game ends. All elements of the game are represented by geometric shapes
